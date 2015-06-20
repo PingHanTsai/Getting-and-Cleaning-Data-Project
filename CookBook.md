@@ -48,3 +48,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
  <li> Appropriately labels the data set with descriptive variable names. </li>
  <li> From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. </li>
 </ol>
+
+## R Script
+
+run_analysis.R and the output is tidy_data.txt
