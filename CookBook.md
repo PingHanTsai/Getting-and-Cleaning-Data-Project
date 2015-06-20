@@ -57,7 +57,8 @@ run_analysis.R and the output is tidy_data.txt
 
 Features:
 
-###  [1] "TimeBodyAccelerometer-mean()-X"                
+<li> [1] "TimeBodyAccelerometer-mean()-X"
+</li>
 ##  [2] "TimeBodyAccelerometer-mean()-Y"                
 ##  [3] "TimeBodyAccelerometer-mean()-Z"                
 ##  [4] "TimeBodyAccelerometer-std()-X"                 
