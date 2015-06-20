@@ -53,7 +53,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 run_analysis.R and the output is tidy_data.txt
 
-## Summary
+## Output Summary
 
 Features:
 
